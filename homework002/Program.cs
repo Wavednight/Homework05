@@ -1,4 +1,4 @@
-﻿string inputString = "HeLLo WorLD";
+﻿string inputString = "Hello, my name ...";
 string lowerCaseString = "";
 
 foreach (char c in inputString)
